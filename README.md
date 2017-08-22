@@ -1,2 +1,0 @@
-# macbot
-MacbotWeb Project
